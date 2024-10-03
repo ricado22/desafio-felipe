@@ -35,5 +35,5 @@ switch (true) {
         break;
 
     default:
-        console.log("Treine mais !!");
+        console.log("Treine Mais !!");
 }
